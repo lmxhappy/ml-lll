@@ -5,3 +5,6 @@
 台湾ntu大学的李宏毅老师的视频。
 
 https://www.youtube.com/watch?v=D4aN7urRp3E
+
+专业的网站：http://lifelongml.org/
+
