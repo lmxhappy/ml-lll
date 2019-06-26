@@ -16,3 +16,7 @@ http://lifelongml.org/
 * 一篇科普中文
 
 https://blog.csdn.net/qrlhl/article/details/49364173
+
+* 一个matlab的库
+
+https://github.com/GRASP-ML/ELLA
